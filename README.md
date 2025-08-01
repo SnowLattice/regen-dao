@@ -76,25 +76,6 @@ Markup :
 1. npm i --legacy-peer-deps
 2. npm run dev
 
-## Presentation Link:
-
-https://www.canva.com/design/DAFkvK-pbFY/4KiaVQ6Gbw3oc8nGIoenTw/edit?utm_content=DAFkvK-pbFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-## Youtube Link;
-
-https://youtu.be/xuxNUpk5qfo
-
 ## deployed Link:
 
 https://regen-dao.vercel.app/
-
-## Screenshots
-
-<img width="1470" alt="Screenshot 2024-06-26 at 11 19 56 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/faa47310-16ea-48c3-b80f-791987368b66">
-<img width="1273" alt="Screenshot 2024-06-26 at 11 22 10 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/a0314a8e-7fbf-4add-9c00-36fe3e887a46">
-<img width="1272" alt="Screenshot 2024-06-26 at 11 22 29 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/5e37cb7b-7e67-4218-8227-71395199bb26">
-<img width="1266" alt="Screenshot 2024-06-26 at 11 22 44 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/1ffd610c-e952-4fd3-b939-f90ddf153a2e">
-<img width="1436" alt="Screenshot 2024-06-26 at 11 23 06 PM" src="https://github.com/vmmuthu31/Regen-DAO/assets/88650559/abfd256b-3d22-4fdd-afa8-967e5f5885f5">
-
-
-
